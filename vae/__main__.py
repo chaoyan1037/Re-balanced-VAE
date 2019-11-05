@@ -53,8 +53,8 @@ if __name__ == '__main__':
 
     if args.generate_samples:
         if not args.restore:
-            raise ValueError('argument --restore with trained vae path required to generate samples!')        trainer.load_raw(args.restore)
-
+            raise ValueError('argument --restore with trained vae path required to generate samples!')
+        trainer.load_raw(args.restore)
         # random sampling
         samples = []
         for _ in tqdm.tqdm(range(10)):
