@@ -25,18 +25,18 @@ Our implementation is modified on the code from https://github.com/DavidJanz/mol
 
 If you find our code useful, please cite our paper:
 
-@inproceedings{yan2020re,
-  title={Re-balancing variational autoencoder loss for molecule sequence generation},
-  author={Yan, Chaochao and Wang, Sheng and Yang, Jinyu and Xu, Tingyang and Huang, Junzhou},
-  booktitle={Proceedings of the 11th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics},
-  pages={1--7},
+@inproceedings{yan2020re,<br />
+  title={Re-balancing variational autoencoder loss for molecule sequence generation},<br />
+  author={Yan, Chaochao and Wang, Sheng and Yang, Jinyu and Xu, Tingyang and Huang, Junzhou},<br />
+  booktitle={Proceedings of the 11th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics},<br />
+  pages={1--7},<br />
   year={2020}
 }
 
-@article{yan2022molecule,
-  title={Molecule Sequence Generation with Rebalanced Variational Autoencoder Loss},
-  author={Yan, Chaochao and Yang, Jinyu and Ma, Hehuan and Wang, Sheng and Huang, Junzhou},
-  journal={Journal of Computational Biology},
-  year={2022},
-  publisher={Mary Ann Liebert, Inc., publishers 140 Huguenot Street, 3rd Floor New~…}
+@article{yan2022molecule,<br />
+  title={Molecule Sequence Generation with Rebalanced Variational Autoencoder Loss},<br />
+  author={Yan, Chaochao and Yang, Jinyu and Ma, Hehuan and Wang, Sheng and Huang, Junzhou},<br />
+  journal={Journal of Computational Biology},<br />
+  year={2022},<br />
+  publisher={Mary Ann Liebert}
 }
